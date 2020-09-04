@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Maktabkhone-Resume/static/css/main.adef0be4.chunk.css",
+    "main.js": "/Maktabkhone-Resume/static/js/main.3bf17152.chunk.js",
+    "main.js.map": "/Maktabkhone-Resume/static/js/main.3bf17152.chunk.js.map",
+    "runtime-main.js": "/Maktabkhone-Resume/static/js/runtime-main.f2135287.js",
+    "runtime-main.js.map": "/Maktabkhone-Resume/static/js/runtime-main.f2135287.js.map",
+    "static/js/2.f179b346.chunk.js": "/Maktabkhone-Resume/static/js/2.f179b346.chunk.js",
+    "static/js/2.f179b346.chunk.js.map": "/Maktabkhone-Resume/static/js/2.f179b346.chunk.js.map",
+    "index.html": "/Maktabkhone-Resume/index.html",
+    "precache-manifest.87618575ee9a6b680b1d41350d4b6c38.js": "/Maktabkhone-Resume/precache-manifest.87618575ee9a6b680b1d41350d4b6c38.js",
+    "service-worker.js": "/Maktabkhone-Resume/service-worker.js",
+    "static/css/main.adef0be4.chunk.css.map": "/Maktabkhone-Resume/static/css/main.adef0be4.chunk.css.map",
+    "static/js/2.f179b346.chunk.js.LICENSE.txt": "/Maktabkhone-Resume/static/js/2.f179b346.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f2135287.js",
+    "static/js/2.f179b346.chunk.js",
+    "static/css/main.adef0be4.chunk.css",
+    "static/js/main.3bf17152.chunk.js"
+  ]
+}
