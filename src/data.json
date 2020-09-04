@@ -1,0 +1,70 @@
+{
+    "title" : "Hello, I'm Maliheh!",
+    "subtitle" :"Front End Developer",
+    "links": {
+        "github": "https://github.com/malihe6900",
+        "stackowerflow" : "https://stackoverflow.com/users/13793309/maliheh-mohammadi-navasatli",
+        "linkedin" : "https://www.linkedin.com/in/malihe-mohammadi-navasatli-b4a356124/"     
+    },
+    "section": [
+        {
+            "title" : "About",
+            "items" : [
+                {
+                    "type" : "p",
+                    "content" : "I love to learn."
+                },
+                {
+                    "type" : "p",
+                    "content" : "I bleave in self-learning"
+                },
+                {
+                    "type" : "p",
+                    "content" : "I like JavaScript and ReactJS"
+                }
+            ]
+        },
+        {
+            "title" : "Skills",
+            "items" : [
+                {
+                    "type" : "card",
+                    "content" : {
+                        "img" : "images/react.png",
+                        "title" : "React"
+
+                    }
+                },
+                {
+                    "type" : "card",
+                    "content" : {
+                        "img" : "images/javascript.png",
+                        "title" : "Javascript"
+
+                    }
+                },
+                {
+                    "type" : "card",
+                    "content" : {
+                        "img" : "images/html.png",
+                        "title" : "HTML"
+
+                    }
+                }
+               
+                
+               
+                    
+                
+            ]
+        }
+   
+    ],
+    "icons":{
+        "down": "images/down.png",
+        "up": "images/up.png"
+    },
+    "theme":{
+        "img" : "images/theme.png"
+    }
+}
